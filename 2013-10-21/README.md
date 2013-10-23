@@ -1,3 +1,43 @@
 # Presentations
 
-[Dan - coroutines and channels in C with setjmp / longjmp](coroutines.pdf)
+I was really impressed by the quality and variety of the projects.
+We had several awesome demos of hardware/real-world-interaction, a few gorgeous web apps,
+two Clojure libraries, and a coroutines implementation.
+
+## Dan Luu
+Dan explained a simple implementation of coroutines and channels in C, at hyper-speed.
+[presentation](coroutines.pdf) [code](https://github.com/danluu/setjmp-longjmp-ucontext-snippets)
+
+## Max Rahder
+Max showed off his mobile web app for the Hoofer's Sailing Club.
+It gives you real time wind, temp, and lake status information, so that you can decide whether to head down to the lake.
+
+## Bradley Grzesiak
+Bradley showed of his team's Rails Rumble entry, Signatry.
+The site allows people to re-use open sourced contracts -- read, customize, and sign.
+[site](https://signatry.com/) [opensource contracts](https://github.com/bendyworks/contracts)
+
+## Timm Murray
+Flying things are basically always cool, and Timm's Perl-controlled Parrot drone was no exception.
+He demoed his Perl library UAV::Pilot for controlling the Parrot AR.Drone.
+[code](https://github.com/frezik/UAV-Pilot/)
+
+## Matt Feifarek
+Matt showed off a gorgeous web app for applying a transformation to images.
+It picks the main colors from the input image, and creates a new images of horizontal color stripes based on those colors.
+The whole site is beautiful, the demo went smoothly,
+and it sounds like he has neat plans for playing with and improving the central algorithm.
+
+## Larry Walker
+Larry had the most demos! He showed off an arduino controlled by the computer, a hardware Pong controller,
+and a mouse-controlled robot. This was all to show off the power of LiveCode and his interface on top of it.
+
+## Jacob Hanshaw
+This one took the longest to set up, but it was definitely worth it.
+Jacob demoed an early prototype of an Oculus Rift-Kinect virtual reality game.
+[Jacob's github](https://github.com/jacobhanshaw)
+
+## Devin Walters
+Devin tried to crash a Cesna for us, but it bounced.
+He's been playing with the [flightgear Clojure library](https://github.com/dalethatcher/flightgear),
+using the eponymous [open-source flight simulator](http://www.flightgear.org/).
