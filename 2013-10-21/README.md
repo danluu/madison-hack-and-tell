@@ -30,7 +30,7 @@ and it sounds like he has neat plans for playing with and improving the central 
 
 ## Larry Walker
 Larry had the most demos! He showed off an arduino controlled by the computer, a hardware Pong controller,
-and a mouse-controlled robot. This was all to show off the power of LiveCode and his interface on top of it.
+and a mouse-controlled robot. This was all to show off the power of a HyperCard clone, LiveCode, on top of [Bitlash](https://github.com/billroy/bitlash).
 
 ## Jacob Hanshaw
 This one took the longest to set up, but it was definitely worth it.
