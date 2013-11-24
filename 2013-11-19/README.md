@@ -1,11 +1,11 @@
 # Presentations
 
 We had a great variety of presentations again this time!
-From a robot with omni wheels to a Python NLP library to data visualizations. :)
+From a robot with [omni wheels](http://en.wikipedia.org/wiki/Omni_wheel) to a Python NLP library to data visualizations. :)
 
 ## Leah Hanson
 
-Leah presented her in-progress [Dropbox client](https://github.com/astrieanna/haiku-dropbox-client)
+[Leah](http://blog.leahhanson.us/) presented her in-progress [Dropbox client](https://github.com/astrieanna/haiku-dropbox-client)
 for the [Haiku operating system](https://www.haiku-os.org/).
 
 ## Riley Hunt
@@ -18,7 +18,7 @@ He's currently trying to understand sine and cosine to convert joystick commands
 
 ## Steve Loria
 
-Steve presented his TextBlob -- a natural language processing api for python, designed for humans.
+[Steve](http://www.stevenloria.com/) presented his [TextBlob](https://textblob.readthedocs.org/en/latest/) -- a natural language processing api for python, designed for humans.
 It wraps the exisitng major Python libraries (like NLTK) in a much easier (but equally powerful) API.
 
 ## Chris Hunt
@@ -33,14 +33,14 @@ He's interested in trying to help hook up teams of kids with mentors; contact hi
 
 ## Brian Danielak
 
-Brian does research on how university students learn programming.
+[Brian](http://briandk.com/) does research on how university students learn programming.
 He presented a tool for visualizing the history of a student's project.
 He demonstrated that you can see how a seemingly implausible final outcome
 stemmed from a student's initial architecture choices.
 
 ## Brian Cobb
 
-Brian presented his visualizer for brew package dependencies.
+[Brian](https://github.com/bcobb) presented his [visualizer for brew package dependencies](https://github.com/bcobb/brew_dg/).
 It lets you see which packages depend on which other dependencies,
 revealing things like redundant dependencies (where one package depends on another both directly and indirectly)
 and which packages are the "hardest working" (are depended on by the most other packages).
