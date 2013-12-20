@@ -45,9 +45,9 @@ It lets you see which packages depend on which other dependencies,
 revealing things like redundant dependencies (where one package depends on another both directly and indirectly)
 and which packages are the "hardest working" (are depended on by the most other packages).
 
-## Colin
+## Colin Ardern
 
-Colin presented his webapp for finding headphones based on specific attributes.
+[Colin](https://github.com/cardern) presented his webapp for [finding headphones based on specific attributes](http://headfonica.com).
 He combined data from multiple forums with links to amazon and a web interface.
 He's currently working on improving the filtering options in web interface and considering data visualizations.
 

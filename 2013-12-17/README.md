@@ -12,7 +12,7 @@ Jeshua presented [a port of an OS from POWER/xlc/XCOFF to x86/gcc/ELF](jeshua_xl
 [Tom](http://web.eecs.umich.edu/~twenisch/) talked about [computational sprinting](http://acg.cis.upenn.edu/sprinting/), the idea of running chips very fast and hot and then giving them time to rest. He showed a demo of using phase change materials (first wax, then an exotic metal alloy), which have much higher thermal capacitance than conventional cooling solutions.
 
 ## Becky Gietzel
-[Becky] explained [CONDOR](http://research.cs.wisc.edu/htcondor/), a widely-used distributed computing system. She showed a visualization that allowed admins to figure out which jobs weren't running efficiently.
+[Becky](http://pages.cs.wisc.edu/~bgietzel/) explained [CONDOR](http://research.cs.wisc.edu/htcondor/), a widely-used distributed computing system. She showed a visualization that allowed admins to figure out which jobs weren't running efficiently.
 
 ## Ian Cordasco
 [Ian](https://github.com/sigmavirus24) showed off [Betamax](https://github.com/sigmavirus24/betamax/), his port of [VCR](https://github.com/vcr/vcr) to Python. It lets you replay network responses, allowing you to test web APIs without worrying about being rate limited by the web service you're using.
