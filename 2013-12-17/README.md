@@ -1,15 +1,15 @@
 # Presentations
 
-We had more systmes folks this time around, from distributed systems to computer architecture.
+We had more systmes folks this time around, from distributed systems to computer architecture, plus a Python library.
 
 ## Leah Hanson
 [Leah](https://github.com/astrieanna) presented a demo of [the game of life](https://github.com/astrieanna/distributed_gameoflife), implemented with distributed arrays in Julia, which allows it to run on a cluster as easily as a single machine.
 
 ## Jeshua Smith
-Jeshua presented [a port of an OS from POWER/xlc/XCOFF to x86/gcc/ELF](jeshua_xlc_to_gcc.odp), which included having to port from a codebase where people called functions with missing arguments, reyling on a non-standards compliant compiler to fill in a default value, and having to convert inline assembly that was defined in a "standard" format that was the raw hex instructions to gcc's inline assembly format.
+Jeshua presented [a port of an OS from POWER/xlc/XCOFF to x86/gcc/ELF](jeshua_xlc_to_gcc.odp), which included having to porting a codebase where people called functions with missing arguments, reyling on a non-standards compliant compiler to fill in a default value, and having to convert inline assembly that was defined in a "standard" format that's the raw hex of opcodes to gcc's inline assembly format.
 
 ## Tom Wenisch
-[Tom](http://web.eecs.umich.edu/~twenisch/) talked about [computational sprinting](http://acg.cis.upenn.edu/sprinting/), the idea of running chips very fast and hot and then giving them time to rest. He showed a demo of using phase change materials (first wax, then an exotic metal alloy), which have much higher thermal capacitance than conventional cooling solutions.
+[Tom](http://web.eecs.umich.edu/~twenisch/) talked about [computational sprinting](http://acg.cis.upenn.edu/sprinting/), the idea of running chips very fast and hot and then giving them time to rest. He showed a demo with phase change materials (first wax, then an exotic metal alloy), which have much higher thermal capacitance than conventional cooling solutions, allowing chips to run much hotter than the thermal limit of the cooling solution for tens of seconds.
 
 ## Becky Gietzel
 [Becky](http://pages.cs.wisc.edu/~bgietzel/) explained [CONDOR](http://research.cs.wisc.edu/htcondor/), a widely-used distributed computing system. She showed a visualization that allowed admins to figure out which jobs weren't running efficiently.
