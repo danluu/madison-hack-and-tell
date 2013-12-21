@@ -18,6 +18,9 @@ Bradley showed of his team's Rails Rumble entry, [Signatry](https://signatry.com
 The site allows people to re-use [opensource contracts](https://github.com/bendyworks/contracts):
 read, customize, and sign them.
 
+## Mystery Person
+Someone whose name we didn't catch presented a javascript port of [core.async](https://github.com/clojure/core.async). Pull requests to fix this blurb welcome!
+
 ## Timm Murray
 Flying things are basically always cool, and Timm's Perl-controlled Parrot drone was no exception.
 He demoed his [Perl library UAV::Pilot](https://github.com/frezik/UAV-Pilot/) for controlling the Parrot AR.Drone.
