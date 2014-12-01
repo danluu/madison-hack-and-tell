@@ -6,4 +6,4 @@
 
 3: [12/2013](2013-12-17/)
 
-Thanks to [Bendyworks](http://bendyworks.com/) for hosting us!
+Madison Hack and Tell is under new ownership. It's [still active](http://www.meetup.com/Madison-Hack-and-Tell/), but these summaries aren't being updated anymore. Sorry!
